@@ -1,3 +1,3 @@
 # Cp2Digital
 
-cp2 da materia de Digital Business Enablement
+cp2 da matéria de Digital Business Enablement
